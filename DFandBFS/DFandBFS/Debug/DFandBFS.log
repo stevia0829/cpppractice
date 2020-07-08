@@ -1,0 +1,3 @@
+﻿  mian.cpp
+e:\c++learning\dfandbfs\dfandbfs\mian.cpp(21): warning C4018: “<”: 有符号/无符号不匹配
+  DFandBFS.vcxproj -> E:\c++learning\DFandBFS\Debug\DFandBFS.exe
