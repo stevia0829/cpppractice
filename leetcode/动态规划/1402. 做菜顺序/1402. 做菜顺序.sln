@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1402. 做菜顺序", "1402. 做菜顺序\1402. 做菜顺序.vcxproj", "{ADB4ECEA-B040-4F99-BD91-30E51E58EE19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADB4ECEA-B040-4F99-BD91-30E51E58EE19}.Debug|x64.ActiveCfg = Debug|x64
+		{ADB4ECEA-B040-4F99-BD91-30E51E58EE19}.Debug|x64.Build.0 = Debug|x64
+		{ADB4ECEA-B040-4F99-BD91-30E51E58EE19}.Debug|x86.ActiveCfg = Debug|Win32
+		{ADB4ECEA-B040-4F99-BD91-30E51E58EE19}.Debug|x86.Build.0 = Debug|Win32
+		{ADB4ECEA-B040-4F99-BD91-30E51E58EE19}.Release|x64.ActiveCfg = Release|x64
+		{ADB4ECEA-B040-4F99-BD91-30E51E58EE19}.Release|x64.Build.0 = Release|x64
+		{ADB4ECEA-B040-4F99-BD91-30E51E58EE19}.Release|x86.ActiveCfg = Release|Win32
+		{ADB4ECEA-B040-4F99-BD91-30E51E58EE19}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE04DECE-4B52-4CDC-8896-9BB2B1F0D851}
+	EndGlobalSection
+EndGlobal
