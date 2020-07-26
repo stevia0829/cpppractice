@@ -18,12 +18,11 @@ public:
 		}
 
 		for (int i = 0; i < len; i++) {
-			if (path[i] != path[start])
-			{
-				swap(path[i], path[start]);
-				dfs(res, path, start + 1, len);
-				swap(path[i], path[start]);
-			}
+
+			swap(path[i], path[start]);
+			dfs(res, path, start + 1, len);
+			swap(path[i], path[start]);
+			
 		}
 		
 	}
