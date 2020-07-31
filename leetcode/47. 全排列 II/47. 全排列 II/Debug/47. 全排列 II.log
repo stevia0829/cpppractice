@@ -1,3 +1,3 @@
 ﻿  permuteUnique.cpp
-e:\c++learning\cpppractice\leetcode\47. 全排列 ii\47. 全排列 ii\permuteunique.cpp(13): warning C4715: “Solution::permuteUnique”: 不是所有的控件路径都返回值
+e:\c++learning\cpppractice\leetcode\47. 全排列 ii\47. 全排列 ii\permuteunique.cpp(29): warning C4018: “<”: 有符号/无符号不匹配
   47. 全排列 II.vcxproj -> E:\c++learning\cpppractice\leetcode\47. 全排列 II\Debug\47. 全排列 II.exe
