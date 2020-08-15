@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "剑指 Offer 24. 反转链表", "剑指 Offer 24. 反转链表\剑指 Offer 24. 反转链表.vcxproj", "{073E0018-7A7D-474E-8C20-53C57249B2A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{073E0018-7A7D-474E-8C20-53C57249B2A2}.Debug|x64.ActiveCfg = Debug|x64
+		{073E0018-7A7D-474E-8C20-53C57249B2A2}.Debug|x64.Build.0 = Debug|x64
+		{073E0018-7A7D-474E-8C20-53C57249B2A2}.Debug|x86.ActiveCfg = Debug|Win32
+		{073E0018-7A7D-474E-8C20-53C57249B2A2}.Debug|x86.Build.0 = Debug|Win32
+		{073E0018-7A7D-474E-8C20-53C57249B2A2}.Release|x64.ActiveCfg = Release|x64
+		{073E0018-7A7D-474E-8C20-53C57249B2A2}.Release|x64.Build.0 = Release|x64
+		{073E0018-7A7D-474E-8C20-53C57249B2A2}.Release|x86.ActiveCfg = Release|Win32
+		{073E0018-7A7D-474E-8C20-53C57249B2A2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CF1FDEF-D2DB-4501-A70F-3FC4D924592C}
+	EndGlobalSection
+EndGlobal
